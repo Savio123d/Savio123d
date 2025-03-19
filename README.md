@@ -15,12 +15,14 @@ Sou estudante de ADS e, quando estou livre, pratico com projetos particulares ou
 </div>
 
 <div align="left">
-  <img src="imagens/java-original.svg" alt="Java" width="40" height="40" style="margin-right: 10px;" />
-  <img src="imagens/html5-original.svg" alt="HTML" width="40" height="40" style="margin-right: 10px;" />
-  <img src="imagens/css3-original.svg" alt="CSS" width="40" height="40" style="margin-right: 10px;" />
-  <img src="imagens/javascript-plain.svg" alt="JavaScript" width="40" height="40" style="margin-right: 10px;" />
+  <img src="imagens/java-original.svg" alt="Java" width="40" height="40" style="margin-right: 30px;" />
+  <img src="imagens/html5-original.svg" alt="HTML" width="40" height="40" style="margin-right: 30px;" />
+  <img src="imagens/css3-original.svg" alt="CSS" width="40" height="40" style="margin-right: 30px;" />
+  <img src="imagens/javascript-plain.svg" alt="JavaScript" width="40" height="40" style="margin-right: 30px;" />
   <img src="imagens/c-original.svg" alt="C" width="40" height="40" />
 </div>
+
+
 
 
 

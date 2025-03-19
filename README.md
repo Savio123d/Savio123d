@@ -22,6 +22,8 @@ Sou estudante de ADS e, quando estou livre, pratico com projetos particulares ou
   <img src="imagens/c-original.svg" alt="C" width="40" height="40" />
 </div>
 
+![Snake animation](https://github.com/Savio123d/Savio123d/blob/output/github-snake.svg)
+
 
 
 

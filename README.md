@@ -13,12 +13,12 @@ Sou estudante de ADS e, quando estou livre, pratico com projetos particulares ou
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Savio123d&layout=compact&theme=dark&bg_color=000000&title_color=00FF00&text_color=00FF00"/>
   
 </div>
-<div align="center">
-  <img src="https://link-para-o-icone-java.png" alt="Java" width="40" height="40" />
-  <img src="https://link-para-o-icone-html.png" alt="HTML" width="40" height="40" />
-  <img src="https://link-para-o-icone-css.png" alt="CSS" width="40" height="40" />
-  <img src="https://link-para-o-icone-js.png" alt="JavaScript" width="40" height="40" />
-  <img src="https://link-para-o-icone-c.png" alt="C" width="40" height="40" />
+<div align="right">
+  <img src="imagens/java-original.svg" alt="Java" width="40" height="40" />
+  <img src="imagens/html5-original.svg" alt="HTML" width="40" height="40" />
+  <img src="imagens/css3-original.svg" alt="CSS" width="40" height="40" />
+  <img src="imagens/javascript-plain.svg" alt="JavaScript" width="40" height="40" />
+  <img src="imagens/c-original.svg" alt="C" width="40" height="40" />
 </div>
 
 

@@ -14,7 +14,7 @@ Sou estudante de ADS e, quando estou livre, pratico com projetos particulares ou
   
 </div>
 
-<div align="center">
+<div align="left">
   <img src="imagens/java-original.svg" alt="Java" width="40" height="40" style="margin-right: 100px;" />
   <img src="imagens/html5-original.svg" alt="HTML" width="40" height="40" style="margin-right: 100px;" />
   <img src="imagens/css3-original.svg" alt="CSS" width="40" height="40" style="margin-right: 100px;" />

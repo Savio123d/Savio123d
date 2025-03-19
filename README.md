@@ -22,7 +22,12 @@ Sou estudante de ADS e, quando estou livre, pratico com projetos particulares ou
   <img src="imagens/c-original.svg" alt="C" width="40" height="40" />
 </div>
 
-![Snake animation](https://github.com/Savio123d/Savio123d/blob/output/dist/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Savio123d/Savio123d/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Savio123d/Savio123d/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Savio123d/Savio123d/output/github-contribution-grid-snake.svg">
+</picture>
+<br><br>
 
 
 

@@ -1,0 +1,25 @@
+name: Snake Animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # Atualiza todo dia à meia-noite
+  workflow_dispatch: # Permite rodar manualmente o workflow
+
+jobs:
+  snake:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout do repositório
+        uses: actions/checkout@v3
+
+      - name: Gerar a cobrinha
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: dist/github-snake.svg
+
+      - name: Enviar o arquivo gerado
+        uses: actions/upload-artifact@v3
+        with:
+          name: github-snake
+          path: dist/github-snake.svg

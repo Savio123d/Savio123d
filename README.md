@@ -1,7 +1,7 @@
 ## Hello! Eu sou Savio Henrique
 
 <!-- Sobre mim -->
-Sou estudante de ADS e, quando estou livre, pratico com projetos particulares ou cursos.
+### <strong>Sou estudante de ADS e, quando estou livre, pratico com projetos particulares ou cursos.</strong>
 
 <!-- Cartões de estatísticas -->
 <div align="left">
@@ -14,23 +14,20 @@ Sou estudante de ADS e, quando estou livre, pratico com projetos particulares ou
   
 </div>
 
+## 🚀 Linguagens que uso na faculdade ou pratico:  
+<!-- Tecnologias -->
 <div align="left">
-  <img src="imagens/java-original.svg" alt="Java" width="40" height="40" style="margin-right: 100px;" />
-  <img src="imagens/html5-original.svg" alt="HTML" width="40" height="40" style="margin-right: 100px;" />
-  <img src="imagens/css3-original.svg" alt="CSS" width="40" height="40" style="margin-right: 100px;" />
-  <img src="imagens/javascript-plain.svg" alt="JavaScript" width="40" height="40" style="margin-right: 100px;" />
-  <img src="imagens/c-original.svg" alt="C" width="40" height="40" />
+  <img src="imagens/java-original.svg" alt="Java" width="50" height="50" style="margin-right: 30px;" />
+  <img src="imagens/html5-original.svg" alt="HTML" width="50" height="50" style="margin-right: 30px;" />
+  <img src="imagens/css3-original.svg" alt="CSS" width="50" height="50" style="margin-right: 30px;" />
+  <img src="imagens/javascript-plain.svg" alt="JavaScript" width="50" height="50" style="margin-right: 30px;" />
+  <img src="imagens/c-original.svg" alt="C" width="50" height="50" />
 </div>
 
+<!-- Snake Animation -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Savio123d/Savio123d/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Savio123d/Savio123d/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Savio123d/Savio123d/output/github-contribution-grid-snake.svg">
 </picture>
 <br><br>
-
-
-
-
-
-
